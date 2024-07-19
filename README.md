@@ -1,55 +1,70 @@
 # D23IT180-Summer-Internship
+A detailed blog repo on Summer Internship 
 
-### In this Github Repo. you will find the Detailed Daily Updates on Summer Internship of 2024
+---
 
-## Week 1 
+## Week 1
 
 ### Day 1: Induction Program
 - **Induction Activities:**
   - Welcome to GT
   - Training: Ethics and Independence
   - Article Training Sessions
-  - Bank and PF Regarding Sessions
+  - Bank and PF Sessions
   - Q & A
 
 - **Post Activities:**
   - Received company laptops and welcome gifts.
 
-### Day 2: System Setup - VM Setup - Linux Installation
-- **Tasks:**
-  - Installation and setup of office tools.
-  - Learning about system workflows.
+---
 
-### Day 3 & 4: Perform Attack or Testing Kali Tools - The Earth
+### Day 2: System Setup
+- **Tasks:**
+  - VM Setup
+  - Linux Installation
+  - Learning office tools and system workflows
+
+---
+
+### Day 3 & 4: Kali Tools Testing
 - **Tasks:**
   - Started attacking practice on a virtual machine from [VulnLab](https://www.vulnlab.com/).
   - Target: Crack the virtual machine "The Earth" using Kali Linux.
 
-### Day 5: Training on Ransomware Threats
+---
+
+### Day 5: Ransomware Threats Training
 - **Tasks:**
   - Virtual training on Ransomware Threats.
-  - Learning types of threats and protection methods.
+  - Learning about types of threats and protection methods.
+
+---
 
 ## Week 2
 
-### Day 1, 2 & 3: Training, Ubuntu Server Setup, DDOS and SQL Injection Attack
+### Day 1, 2 & 3: Training, Ubuntu Server Setup, DDOS & SQL Injection Attack
 - **Tasks:**
-  - Continued practicing Kali Linux attacks.
-  - Enrolled in ethics and company policies training (48 hours module).
+  - Continued Kali Linux attacks.
+  - Ethics and company policies training (48 hours module).
   - Studied SQL injection and DDOS attacks using tools like 'Slowloris'.
 
-### Day 4 & 5: Training, Cisco Course on Network Fundamentals
+---
+
+### Day 4 & 5: Cisco Network Fundamentals Course
 - **Tasks:**
   - Learning network security fundamentals from Cisco.
 
+---
+
 ## Week 3
 
-- **Web Application Testing with Burp Suite Community:**
-  - Tested a web application for vulnerabilities.
-  - Created a detailed report on found vulnerabilities with guidance from Mr. Nandakishor.
+### Web Application Testing
+- **Tasks:**
+  - Tested a web application using Burp Suite Community.
+  - Created a detailed report on vulnerabilities with guidance from Mr. Nandakishor.
 
-- **List of Vulnerabilities:**
-  - Path Traversal Vulnerability by dot-dot slash attack
+- **Vulnerabilities Identified:**
+  - Path Traversal
   - Cross-Site Request Forgery
   - OS Command Injection
   - Unrestricted File Upload
@@ -58,11 +73,11 @@
   - Login Bypass Using Response Manipulation
   - Unauthenticated File Download
   - Unauthenticated Access via Cookie Exclusion
-  - Session Timeout issue
-  - SSL/TLS-Related Issues
+  - Session Timeout Issue
+  - SSL/TLS Issues
   - Storing Sensitive Data in Client-Side Storage
   - Self-signed SSL Certificate
-  - Information Disclosure in the JavaScript File
+  - Information Disclosure in JavaScript File
   - Known CVEs
   - Weak TLS Ciphers
   - Clickjacking Attack
@@ -70,6 +85,8 @@
   - Directory Brute Forcing
   - Backup File Issue
   - Client-Side Desync Attack
+
+---
 
 ## Week 4
 
@@ -81,7 +98,7 @@
   - Penetration testing skills
   - Exploit servers, networks, and applications
   - Internal penetration testing
-  - Five stages of penetration testing
+  - Stages of penetration testing
   - Ethical hacking
   - Metasploit filesystem and libraries
   - Metasploit architecture
@@ -90,12 +107,16 @@
   - Enumeration, Nmap integration, and port scanning
   - SMB and Samba enumeration
 
+---
+
 ## Week 5
 
 ### Day 1: Data Forensics and Risk Management Tools
 - **Tasks:**
   - Learning about data forensics.
   - Understanding risk management tools.
+
+---
 
 ### Day 2 & 3: Penetration Testing using Metasploit
 - **Tasks:**
@@ -111,10 +132,14 @@
     - Explore the compromised system, gather information, escalate privileges.
   - Learn and experiment with different vulnerabilities and attack vectors.
 
+---
+
 ### Day 4: Phishing Tool - ZPhisher
 - **Tasks:**
   - Using ZPhisher in Termux for phishing attacks.
   - Features include phishing pages for popular websites like Facebook, Instagram, Google, Microsoft, etc.
+
+---
 
 ### Day 5: Phishing Tool - GoPhish Framework
 - **Tasks:**
